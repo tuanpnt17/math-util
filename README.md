@@ -6,4 +6,6 @@
 * Unit Testing source code with JUnit framework
 * GitHub action to demonstrate the Continuous Integration (CI) technique
 
+![DDT with Ant](https://github.com/tuanpnt17/math-util/blob/main/images/DDT%2520with%2520Ant.png)
+
 #### © tuanpnt17 | 2023
